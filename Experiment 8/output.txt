@@ -1,0 +1,4 @@
+Inorder traversal (sorted): 25 35 45 55 65 75 85 
+Preorder traversal:         55 25 35 45 65 75 85 
+Postorder traversal:        45 35 25 85 75 65 55 
+
