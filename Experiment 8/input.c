@@ -76,13 +76,13 @@ int main() {
     struct Node* root = NULL;
 
     // 1. Insert elements to construct the BST
-    root = insert(root, 50);
-    insert(root, 30);
-    insert(root, 20);
-    insert(root, 40);
-    insert(root, 70);
-    insert(root, 60);
-    insert(root, 80);
+    root = insert(root, 55);
+    insert(root, 25);
+    insert(root, 35);
+    insert(root, 45);
+    insert(root, 65);
+    insert(root, 75);
+    insert(root, 85);
 
     // 2. Display the traversals
     printf("Inorder traversal (sorted): ");
